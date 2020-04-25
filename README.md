@@ -7,4 +7,4 @@ It uses [public data](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-
 
 The project was originally developed by:
 * [Ava Zheng](https://github.com/evve212233), CS, NYU
-* [Manxueying Li](https://github.com/lmxy0212), CS, NYU
+* [Manxueying Li](https://github.com/lmxy0212/ML_project), CS, NYU
